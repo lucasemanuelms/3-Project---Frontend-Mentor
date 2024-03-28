@@ -116,7 +116,7 @@ ul{
 
 .selectedItem{
     margin-top: 35px;
-    padding: 8px 20px;
+    padding: 8px 20px 5px;
     background-color: hsla(216, 12%, 54%, 0.12);
     border-radius: 25px;
     color: hsl(25, 97%, 53%);
@@ -135,4 +135,57 @@ ul{
     margin-top: 12px;
     line-height: 22px;
     text-align: center;
+}
+
+@media screen and (max-width: 375px) {
+    .principalCard{
+        width: 320px;
+        height: 350px;
+        padding: 20px;
+    }
+    
+    .starIcon{
+        width: 40px;
+        height: 40px;
+    }
+    
+    .principalTitle{
+        margin-top: 20px;
+    }
+
+    .principalText{
+        font-size: 14px;
+        margin: 12px 0 22px;
+    }
+
+    .btn{
+        width: 42px;
+        height: 42px;
+    }
+
+    .subBtn{
+        padding: 15px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .secondCard{
+        width: 320px;
+        height: 350px;
+        padding: 30px 20px;
+    }
+
+    .selectedItem{
+        margin-top: 22px;
+        padding: 6px 12px 3px;
+    }
+
+    .thankTitle{
+        margin-top: 20px;
+
+    }
+
+    .thankText{
+        font-size: 14px;
+    }
 }
