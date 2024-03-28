@@ -14,8 +14,13 @@ This is a little project I did to train my skills in HTML5 and CSS3. It's a desi
 
 ### Screenshot
 
-<!-- ![]() -->
-<!-- ![]() -->
+![](images/Desktop_workflow1.png)
+![](images/Desktop_workflow2.png)
+![](images/Desktop_workflow3.png)
+![](images/Desktop_workflow4.png)
+![](images/Mobile_workflow1.png)
+![](images/Mobile_workflow2.png)
+
 
 ### Built with
 
